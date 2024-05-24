@@ -1,3 +1,3 @@
-import { Count } from './Count';
+import { NameSelector } from './count2';
 
-export default { Count };
+export default { NameSelector };
